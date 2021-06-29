@@ -1,1 +1,2 @@
-print("TT")
+print("TT"
+print(666)
