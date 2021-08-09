@@ -1,0 +1,29 @@
+(一) 移動平均線
+移動平均線(Moving Average, MA)
+(二) 乖離率
+乖離率（Bias Ratio, BIAS）
+(三) 指數平滑異同移動平均線
+指數平滑異同移動平均線(Moving Average Convergence and Divergence, MACD)
+(四) 隨機指標
+隨機指標（Stochastic Line, KD）
+(五) 動量指標
+動量指標（Momentum, MTM）
+(六) 變動率指標
+變動率指標(Rate of Change, ROC)
+(七) 順勢指標
+順勢指標(Commodity Channel Index, CCI)
+(八) 相對強弱指標
+相對強弱指標(relative strength index ,RSI)
+九) 心理線
+心理線(Psychological Line, PSY)
+(十) 威廉指標
+威廉指標(Williams Overbought/Oversold Index)可縮寫為 WMS%R 或是%RWMS%R
+
+(十一) 意願指標
+買賣意願指標(BR)
+(十二) 正、負趨向指標
+趨向指標（Directional Movement Index, DMI）
+(十三) 量強弱指標
+量強弱指標(Volume Ratio, VR)
+(十四) 買賣氣勢指標
+買賣氣勢指標（AR）
